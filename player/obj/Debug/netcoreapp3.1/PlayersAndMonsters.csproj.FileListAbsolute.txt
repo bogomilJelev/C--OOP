@@ -1,0 +1,14 @@
+C:\Users\bogom\Desktop\oop\player\bin\Debug\netcoreapp3.1\PlayersAndMonsters.exe
+C:\Users\bogom\Desktop\oop\player\bin\Debug\netcoreapp3.1\PlayersAndMonsters.deps.json
+C:\Users\bogom\Desktop\oop\player\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.json
+C:\Users\bogom\Desktop\oop\player\bin\Debug\netcoreapp3.1\PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\bogom\Desktop\oop\player\bin\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\bogom\Desktop\oop\player\bin\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.AssemblyReference.cache
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.dll
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.pdb
+C:\Users\bogom\Desktop\oop\player\obj\Debug\netcoreapp3.1\PlayersAndMonsters.genruntimeconfig.cache
